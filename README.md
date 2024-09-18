@@ -1,3 +1,3 @@
-Aulas de Computational-Thinking-Using-Python
+# Aulas de Computational-Thinking-Using-Python
 
-# Primeiro Semestre
+Primeiro Semestre
